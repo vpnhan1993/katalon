@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "7C2735CF1AC715A1BB4FB273261612E2",
+  "keywordClasses": [
+    {
+      "name": "customkeyword.MyCustomWebEventListener",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
