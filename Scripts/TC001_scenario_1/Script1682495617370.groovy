@@ -29,3 +29,5 @@ WebUI.mouseOver(findTestObject('Object Repository/Page_PHP Travels/button_Produc
 WebUI.click(findTestObject('Object Repository/Page_PHP Travels/button_Integrations'))
 
 WebUI.verifyMatch(WebUI.getUrl(), "https://phptravels.com/integrations", false)
+
+WebUI.closeBrowser()

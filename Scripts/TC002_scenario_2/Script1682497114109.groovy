@@ -42,3 +42,5 @@ WebUI.setText(findTestObject('Object Repository/Page_PHP Travels Demo/input_Resu
 WebUI.click(findTestObject('Object Repository/Page_PHP Travels Demo/button_Submit'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_PHP Travels Demo/text_ThankYou'), 'Thank you!')
+
+WebUI.closeBrowser()
